@@ -1,0 +1,3 @@
+([('Tourist Bowling',
+   '/Users/felixhofer/Documents/GitHub/cycling-game/dist/Tourist Bowling',
+   'EXECUTABLE')],)
