@@ -1,4 +1,4 @@
-from cycling_game.game_test import run
+from .game_test import run
 
 def run_game():
     """
@@ -7,3 +7,4 @@ def run_game():
     run()
 
 run_game()
+
